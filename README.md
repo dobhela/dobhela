@@ -18,7 +18,8 @@ could have a portfolio of sorts.
 ### 📑 What is it that you do?
 
 I am currently front-end based, however I am trying to move towards being full-stack! I am currently invested in web development, however I
-sometimes make Discord bots using **Discord.js**. At the moment I am trying to pick up MERN stack.
+sometimes make Discord bots using **Discord.js**. At the moment I am trying to pick up MERN stack, due to it being interesting, and recommendation
+from friendly foes.
 
 
 ### 📞 How do I get in contact with you?
