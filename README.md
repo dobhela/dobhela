@@ -5,6 +5,7 @@ I am a student with a very limited schedule. I do not do any sort of freelancing
 I am an aspiring full-stack developer. At the moment, I am learning MERN stack.
 
 ## Contact
-**Email**
-double@dobhela.xyz
+
+**Email** double@dobhela.xyz
+
 **Discord** dobhela#2505 *(only if couldn't contact me thru email)*
