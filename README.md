@@ -7,6 +7,4 @@ I am an aspiring full-stack developer. At the moment, I am learning MERN stack.
 ## Contact
 **Email**
 double@dobhela.xyz
-
-*please only use this way of contacting if you couldn't contact me with prior methods, thanks!*
-**Discord** dobhela#2505
+**Discord** dobhela#2505 *(only if couldn't contact me thru email)*
