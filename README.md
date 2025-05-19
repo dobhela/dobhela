@@ -1,1 +1,1 @@
-
+Self taught web developer
