@@ -9,4 +9,4 @@ I am a self-taught producer, sound technician, web developer from **Latvia**, wi
 
 ## 📊 Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobhela&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobhela&show_icons=true&theme=catppuccin_mocha)
