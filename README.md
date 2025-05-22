@@ -4,8 +4,8 @@ I am a self-taught producer, sound technician, web developer from **Latvia**, wi
 
 ## 📨 Get in touch
 
-- **My personal website:** https://dobhela.xyz
 - **E-mail:** gatis.kregers@gmail.com
+- **My personal website:** https://dobhela.xyz
 
 ## 📊 Statistics
 
